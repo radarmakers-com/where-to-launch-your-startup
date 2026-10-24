@@ -380,6 +380,13 @@ Use this directory to compare free and paid launch options, submission costs, an
       <td>Access to BetaList submission and automatic refund if rejected.</td>
       <td>No free tier; price and schedule are hidden until the final submission step.</td>
     </tr>
+    <tr>
+      <td><a href="https://radarmakers.com/submit">RadarMakers</a></td>
+      <td>Free listing</td>
+      <td>Free</td>
+      <td>Free listing reviewed by a person; launches are ranked by votes, ratings and helpful comments; no badge or backlink required.</td>
+      <td>Small catalog so far; submitting needs a free account with a confirmed email.</td>
+    </tr>
   </tbody>
 </table>
 

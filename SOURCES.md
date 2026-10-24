@@ -23,3 +23,4 @@ Pricing, availability, and launch timing were checked on September 30, 2026.
 17. DevHunt: <https://devhunt.org/faq>, <https://devhunt.org/llms.txt>
 18. PeerPush: <https://peerpush.com/pricing>, <https://peerpush.com/llms.txt>
 19. BetaList: <https://betalist.com/submit>, <https://betalist.com/faq>
+20. RadarMakers: <https://radarmakers.com/submit>, <https://radarmakers.com/faq>
